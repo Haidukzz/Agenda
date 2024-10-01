@@ -1,4 +1,4 @@
-📅 Aplicativo de Agenda Pessoal
+![image](https://github.com/user-attachments/assets/3b773454-1663-4512-b0e2-4e6fa3535854)📅 Aplicativo de Agenda Pessoal
 Este é um aplicativo de agenda pessoal desenvolvido em Flutter, permitindo ao usuário adicionar, visualizar e gerenciar compromissos diários e futuros, utilizando uma interface intuitiva e moderna. A paleta de cores e o layout foram pensados para proporcionar uma boa experiência visual e funcionalidade eficiente.
 
 🚀 Tecnologias Utilizadas
@@ -70,9 +70,12 @@ Tela Principal (Caixa de Entrada): Exibe os compromissos organizados por hoje, f
 
 Calendário de Compromissos: Permite ao usuário visualizar compromissos futuros em um calendário interativo.
 ![image](https://github.com/user-attachments/assets/b1f41cfe-3707-4559-ba70-5300ef4464cf)
-![image](https://github.com/user-attachments/assets/5fdd1218-ff43-40e4-8eb5-01acdb09b7ca)
 
 Timer de pomordoro: Permite o usuário determinar um tempo para realizar suas tarefas através de um cronômetro.
+![image](https://github.com/user-attachments/assets/1adb071f-632a-4969-976e-b698d17d4beb)
+
+Configurações: Uma tela para configurar o perfil e mudar algumas informações do app.
+![image](https://github.com/user-attachments/assets/eb634d6c-8cc2-4dba-92d4-062a0e91d77c)
 
 Com essas funcionalidades, o aplicativo de agenda pessoal é uma solução prática e eficiente para ajudar os usuários a organizarem suas tarefas e compromissos de maneira simples e intuitiva.
 
