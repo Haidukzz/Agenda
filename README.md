@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3b773454-1663-4512-b0e2-4e6fa3535854)📅 Aplicativo de Agenda Pessoal
+📅 Aplicativo de Agenda Pessoal
 Este é um aplicativo de agenda pessoal desenvolvido em Flutter, permitindo ao usuário adicionar, visualizar e gerenciar compromissos diários e futuros, utilizando uma interface intuitiva e moderna. A paleta de cores e o layout foram pensados para proporcionar uma boa experiência visual e funcionalidade eficiente.
 
 🚀 Tecnologias Utilizadas
