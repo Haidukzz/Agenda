@@ -10,7 +10,7 @@ intl - Utilizado para a formatação de datas e horas de maneira consistente em 
 table_calendar - Utilizado para exibir um calendário interativo, que facilita a visualização e organização dos compromissos.
 dart
 - Biblioteca padrão do Dart para uso de temporizadores, que pode ser implementada para funcionalidades como cronômetros e timers no aplicativo.
-- 
+  
 🎨 Paleta de Cores
 A paleta de cores escolhida proporciona uma experiência visual agradável, com transições suaves entre diferentes tons de azul e verde, criando um ambiente calmo e funcional. A seguir estão os principais códigos de cores utilizados:
 
