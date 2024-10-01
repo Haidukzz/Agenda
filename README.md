@@ -35,8 +35,6 @@ Através do widget TableCalendar, o usuário pode visualizar os compromissos org
 Cada data com compromissos é marcada no calendário, facilitando a identificação de dias ocupados.
 4. Timer/Cronômetro
 Implementação de temporizadores para controle de tempo, como cronômetro Pomodoro, permitindo que o usuário acompanhe o tempo dedicado a atividades específicas.
-5. Notificações de Compromissos
-O aplicativo pode enviar notificações quando o compromisso estiver se aproximando (implementação futura possível).
 6. Drawer (Menu Lateral)
 Um menu lateral personalizável, onde o usuário pode acessar rapidamente opções como "Hoje", "Futuros", "Atrasados", "Configurações" e "Perfil".
 Visual intuitivo com ícones e contador de compromissos para cada seção.
@@ -59,10 +57,23 @@ Execute o aplicativo:
 bash
 Copiar código
 flutter run
+
 📷 Capturas de Tela
 Tela de Login: Uma tela inicial com uma interface de usuário limpa e um fundo em degradê.
+![image](https://github.com/user-attachments/assets/ee7aff90-4dcb-4d82-8df4-065378843a07)
+![image](https://github.com/user-attachments/assets/d6f01173-2778-4c89-9604-18d29a8df449)
+
 Tela Principal (Caixa de Entrada): Exibe os compromissos organizados por hoje, futuros e atrasados.
+![image](https://github.com/user-attachments/assets/462d93ab-4192-4a4f-a2d5-e6bc98ecf4ff)
+![image](https://github.com/user-attachments/assets/a9eb0b1e-2387-4845-83c7-916b0786bee1)
+![image](https://github.com/user-attachments/assets/c3ec2f19-6a58-4683-9fea-a5fddd8a07cb)
+
 Calendário de Compromissos: Permite ao usuário visualizar compromissos futuros em um calendário interativo.
+![image](https://github.com/user-attachments/assets/b1f41cfe-3707-4559-ba70-5300ef4464cf)
+![image](https://github.com/user-attachments/assets/5fdd1218-ff43-40e4-8eb5-01acdb09b7ca)
+
+Timer de pomordoro: Permite o usuário determinar um tempo para realizar suas tarefas através de um cronômetro.
+
 Com essas funcionalidades, o aplicativo de agenda pessoal é uma solução prática e eficiente para ajudar os usuários a organizarem suas tarefas e compromissos de maneira simples e intuitiva.
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para contribuir com o projeto!
