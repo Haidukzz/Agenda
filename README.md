@@ -75,7 +75,7 @@ Timer de pomordoro: Permite o usuário determinar um tempo para realizar suas ta
 ![image](https://github.com/user-attachments/assets/1adb071f-632a-4969-976e-b698d17d4beb)
 
 Configurações: Uma tela para configurar o perfil e mudar algumas informações do app.
-![image](https://github.com/user-attachments/assets/eb634d6c-8cc2-4dba-92d4-062a0e91d77c)
+![image](https://github.com/user-attachments/assets/5bb3dbdb-374b-47e1-aeda-e56533107290)
 
 Com essas funcionalidades, o aplicativo de agenda pessoal é uma solução prática e eficiente para ajudar os usuários a organizarem suas tarefas e compromissos de maneira simples e intuitiva.
 
